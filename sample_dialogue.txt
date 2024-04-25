@@ -1,0 +1,6 @@
+Player: Enters the tavern and approaches the barkeep.
+Barkeep: Welcome, traveler! What can I get ya?
+Player: Do you have any quests available?
+Barkeep: Aye, there's been talk of a beast terrorizing the nearby forest. Could use someone brave to take care of it.
+Player: Sounds dangerous. What's the reward?
+Barkeep: A chest of gold coins for the one who brings back its head!
